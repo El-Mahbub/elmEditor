@@ -1,7 +1,7 @@
 /*
  * FII Editor Plugin
  * Copyright 2017, El-Mahbub
- * Dual licensed under the MIT or GPL Version 2 licenses.
+ * Dual licensed under the MIT or GPL Version 3 licenses.
  *
  * This editor designed and created for FII only.
  * FII - Forum Ilmu Islam Inc.
@@ -43,7 +43,8 @@ var FII = jQuery.noConflict(), App = {}, Elements;
 			'shift+tab': 'outdent',
 			'tab': 'indent'*/
 		},
-		command: {}
+		command: {},
+		VERSION: '0.1'
 	},option);
 		var self = FII(this),saveActive = false;
 		Object.keys(Elements).forEach(function(k) {
