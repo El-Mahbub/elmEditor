@@ -1,2 +1,2 @@
-# fiiEditor
+# elmEditor
 The simple text editor
