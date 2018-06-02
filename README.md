@@ -1,2 +1,2 @@
 # fiiEditor
-The text editor designed and created for Forum Ilmu Islam
+The simple text editor
